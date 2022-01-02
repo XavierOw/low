@@ -39,7 +39,7 @@ else
   document.getElementById("status").innerHTML="a number has not been recognised"
 }
 
-
+}
 
 function speak(){
     var synth = window.speechSynthesis;
@@ -77,5 +77,4 @@ function draw()
     
 }
 
-}
 }
